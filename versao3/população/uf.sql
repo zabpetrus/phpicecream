@@ -31,6 +31,7 @@ INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('RN', 'Rio Grande do Norte'
 INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('RS', 'Rio Grande do Sul');
 INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('RO', 'Rondônia');
 INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('RR', 'Roraima');
+INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('SE', 'Sergipe');
 INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('SC', 'Santa Catarina');
 INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('SP', 'São Paulo');
 INSERT INTO 3dawsource.estados (Sigla, Nome) VALUES ('TO', 'Tocantins');
